@@ -2,7 +2,7 @@ name: Github Actions 실행시켜보기
 
 on:
   push:
-    branced:
+    branches:
       - main
 
 
